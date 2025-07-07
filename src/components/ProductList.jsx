@@ -1,5 +1,4 @@
-// src/components/ProductList.jsx
-import React, { useContext } from 'react';
+import { useContext } from 'react';
 import { CartContext } from '../contexts/CartContext.js'; // Ajusta la ruta según tu estructura
 
 const ProductList = () => {
